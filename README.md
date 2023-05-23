@@ -1,4 +1,4 @@
-# Gitlab Template für Kubernetes Projekte
+# Gitlab Bespiel Template für Kubernetes Projekte
 
 Beispiel demo-service
 
