@@ -62,3 +62,11 @@ Bespiel: ./gitlab_template.sh PRODUCT demo-service
 ```
 # Ergebniss 
 ![imported ](./gitlab_final_templated_structure.jpeg)
+
+# Alexander Wiechert // Elastic2ls
+
+[Website](https://www.elastic2ls.com/)
+
+[Contact](info@elastic2ls.com)
+
+[License](https://github.com/AlexanderWiechert/.github/blob/main/LICENSE)
